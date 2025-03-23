@@ -114,7 +114,7 @@ export const Navbar = () => {
           <NextLink className="flex justify-start items-center gap-1" href="/">
             {getIconUrl() ? (
               <Image
-                src={getIconUrl()}
+                src="https://cdn.skyimg.de/up/2025/3/24/8n51vy.svg"
                 alt={`${sourceConfig.config.title} logo`}
                 width={34}
                 height={34}
